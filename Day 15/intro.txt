@@ -1,0 +1,4 @@
+My name is Bibekraj Tripathy.
+I am a B.Tech CSE student.
+I want to become a Full Stack Developer.
+I love coding in Python.

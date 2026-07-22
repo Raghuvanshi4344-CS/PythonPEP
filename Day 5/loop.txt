@@ -1,0 +1,23 @@
+ Three-Level Nested Loop -- A loop inside another loop inside another loop.
+
+A three-level nested loop contains one loop inside another loop inside another loop.
+
+Which loop changes the fastest- C. Inner Loop
+
+Which loop changes the slowest - Outer Loop
+
+The middle loop starts only after the outer loop starts -  True
+
+The outer loop finishes before the inner loop starts- False
+
+
+Country
+   ↓
+State
+   ↓
+City
+
+State
+
+3
+
